@@ -206,10 +206,11 @@ nav.scrolled {
     width: 15px; vertical-align: middle;
     border-radius: 30px;
   }
+
 .bigimg{
-    height: 200px;
+    height: 150px;
     width: 200px;
-    border-radius: 30px;
+
 }
 
 .bookmark{
